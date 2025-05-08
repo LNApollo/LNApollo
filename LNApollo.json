@@ -3,6 +3,5 @@
         "sys": false,
         "allC": false
     },
-    "lAllC": false,
-    "lCs": ["PBS"]
+    "lAllC": false
 }
